@@ -5,7 +5,7 @@
 ###1. 克隆配置文件
 请运行以下代码克隆配置文件
 ```
-$ git clone https://git.oschina.net/silenthill/vimrc.git ~/.vim
+$ git clone https://github.com/15831626059/vimsrc.git ~/.vim
 ```
 ###2. 安装Vundle
 此配置实用Vundle管理插件，Vundle本身并未集成在此版本库中请按照以下步骤从Github中克隆安装
